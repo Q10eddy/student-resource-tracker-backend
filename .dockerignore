@@ -1,0 +1,12 @@
+bin/
+obj/
+Data/
+tests/
+docs/
+.git/
+.vs/
+.vscode/
+.idea/
+*.md
+Dockerfile
+.dockerignore

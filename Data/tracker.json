@@ -1,0 +1,159 @@
+{
+  "Courses": [
+    {
+      "Id": "c479a629-7178-459a-a551-fb9a66b95015",
+      "Code": "CS 301",
+      "Title": "Database Systems",
+      "Lecturer": "Dr. Mensah",
+      "Semester": "Semester 1",
+      "CreatedAt": "2026-10-05T15:34:52.466401Z"
+    },
+    {
+      "Id": "b1c33038-e0ae-450d-9417-002a232d0c82",
+      "Code": "CS 305",
+      "Title": "Software Engineering",
+      "Lecturer": "Dr. Owusu",
+      "Semester": "Semester 1",
+      "CreatedAt": "2026-10-05T15:34:52.466458Z"
+    },
+    {
+      "Id": "d95e77d9-2d6f-4021-9004-8dfa3ec20f1c",
+      "Code": "STAT 201",
+      "Title": "Applied Statistics",
+      "Lecturer": "Prof. Addo",
+      "Semester": "Semester 1",
+      "CreatedAt": "2026-10-05T15:34:52.466458Z"
+    }
+  ],
+  "Resources": [
+    {
+      "Id": "287db8b5-0311-455b-a475-c1dfb9877bfe",
+      "CourseId": "c479a629-7178-459a-a551-fb9a66b95015",
+      "Title": "Week 3 lecture notes: Normalization",
+      "Type": "LectureNotes",
+      "Url": null,
+      "Notes": null,
+      "Status": "Completed",
+      "Priority": "Medium",
+      "DueDate": null,
+      "Tags": [
+        "sql",
+        "theory"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466691Z",
+      "CompletedAt": "2026-10-05T15:34:52.466802Z"
+    },
+    {
+      "Id": "ed06603e-a49e-46b7-84a3-7016b62a70a4",
+      "CourseId": "c479a629-7178-459a-a551-fb9a66b95015",
+      "Title": "Assignment 2: ER diagram \u002B schema",
+      "Type": "Assignment",
+      "Url": null,
+      "Notes": null,
+      "Status": "InProgress",
+      "Priority": "High",
+      "DueDate": "2026-10-08",
+      "Tags": [
+        "assignment"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466819Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "c48cf55e-fa49-4f87-8675-ba53424151bf",
+      "CourseId": "c479a629-7178-459a-a551-fb9a66b95015",
+      "Title": "Database System Concepts (Ch. 1-6)",
+      "Type": "Textbook",
+      "Url": null,
+      "Notes": null,
+      "Status": "InProgress",
+      "Priority": "Medium",
+      "DueDate": "2026-10-19",
+      "Tags": [
+        "reading"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466836Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "c894545a-986c-453a-bf15-775a5d244a2b",
+      "CourseId": "c479a629-7178-459a-a551-fb9a66b95015",
+      "Title": "Past questions 2022-2024",
+      "Type": "PastQuestion",
+      "Url": null,
+      "Notes": null,
+      "Status": "NotStarted",
+      "Priority": "High",
+      "DueDate": "2026-10-26",
+      "Tags": [
+        "exam"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466836Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "7702a4c9-ec44-4539-b442-d977829c4ae4",
+      "CourseId": "b1c33038-e0ae-450d-9417-002a232d0c82",
+      "Title": "UML tutorial video series",
+      "Type": "Video",
+      "Url": null,
+      "Notes": null,
+      "Status": "NotStarted",
+      "Priority": "Low",
+      "DueDate": "2026-10-15",
+      "Tags": [
+        "uml"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466837Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "9d62df3c-399e-4068-9310-6ed2181888e3",
+      "CourseId": "b1c33038-e0ae-450d-9417-002a232d0c82",
+      "Title": "Group project proposal",
+      "Type": "Assignment",
+      "Url": null,
+      "Notes": null,
+      "Status": "NotStarted",
+      "Priority": "High",
+      "DueDate": "2026-10-03",
+      "Tags": [
+        "group"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466838Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "d6edaeb2-9d13-40af-a77c-f07bdc79a061",
+      "CourseId": "d95e77d9-2d6f-4021-9004-8dfa3ec20f1c",
+      "Title": "Hypothesis testing cheat sheet",
+      "Type": "Article",
+      "Url": null,
+      "Notes": null,
+      "Status": "Completed",
+      "Priority": "Low",
+      "DueDate": null,
+      "Tags": [
+        "revision"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466838Z",
+      "CompletedAt": "2026-10-05T15:34:52.466838Z"
+    },
+    {
+      "Id": "f022d842-2993-4995-8f72-431474de4741",
+      "CourseId": "d95e77d9-2d6f-4021-9004-8dfa3ec20f1c",
+      "Title": "Problem set 4",
+      "Type": "Assignment",
+      "Url": null,
+      "Notes": null,
+      "Status": "NotStarted",
+      "Priority": "Medium",
+      "DueDate": "2026-10-10",
+      "Tags": [
+        "assignment"
+      ],
+      "CreatedAt": "2026-10-05T15:34:52.466839Z",
+      "CompletedAt": null
+    }
+  ]
+}
